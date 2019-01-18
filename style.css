@@ -1,0 +1,40 @@
+h1
+{
+    color:red;
+}
+p
+{
+    font-size: 20px;
+}
+h1
+{
+    font-size: 50px
+}
+h2
+{
+    font-size: 30px
+}
+h2
+{
+    color:green;
+}
+p
+{
+    font-family: arial;
+}
+h1
+{
+    text-shadow:  6px 6px 6px black;
+} 
+body
+{
+    background-image: url(numeros.jpg);
+}
+p
+{
+    color:blue;
+}
+body
+{
+    text-align: center
+}
